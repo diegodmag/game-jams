@@ -1,14 +1,9 @@
 # 🎮  Mis juegos de Jams - My Jams's Games 
 
-codesign: 
- 💼 [Linkedin](https://www.linkedin.com/company/codesign-mx/about/)
- 🌐 [Web](https://www.codesign.mx/)
-
 ---
-
-
-
 ## 🤡 **I just wanted to make them laugh**
+
+🌐 [GlobalGameJam](https://globalgamejam.org/games/2024/i-just-wanted-make-them-laugh-6)
 
 Un juego de terror en primera persona donde un payaso es perseguido por los niños que no hizo reir cuando estaba en vida y ahora los niños se han convertido en monstruos que lo perseguirán a menos que el payaso suelte el juguete que los haga reir. 
 
