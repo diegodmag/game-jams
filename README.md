@@ -5,6 +5,8 @@
 
 🌐 [GlobalGameJam](https://globalgamejam.org/games/2024/i-just-wanted-make-them-laugh-6)
 
+**Made in 48 hrs**
+
 Un juego de terror en primera persona donde un payaso es perseguido por los niños que no hizo reir cuando estaba en vida y ahora los niños se han convertido en monstruos que lo perseguirán a menos que el payaso suelte el juguete que los haga reir. 
 
 A first-person horror game where the player, a clown, is chased by the children he failed to make laugh during his lifetime.
@@ -25,3 +27,9 @@ En este proyecto yo fui responsable de - In this proyect, I was responsable for:
 - 🧭 Diseño y programación del comportamiento de cada niño-monstruo  
   El audio y el comportamiento de los niños-monstruo cambian de fase según las acciones del jugador - Design and programming of each monster-kid's behavior.  
   Both the audio and the monster-kids' behavior shift phases based on the player's actions.
+
+
+
+  ## 🤡 **Bubbletron**
+
+🌐 [GlobalGameJam](https://globalgamejam.org/games/2025/bubbletron-5)
