@@ -16,7 +16,6 @@ Now transformed into monstrous beings, these children will relentlessly pursue t
 
 #### ⚔️ Mi participacion -My Participation
 
-
 En este proyecto yo fui responsable de - In this proyect, I was responsable for: 
 
 - 🧭 Diseño de narrativa y dirección de arte en colaboración con [tsnapi](https://www.instagram.com/tsanapi/) - Narrative design and art direction in collaboration with [tsnapi](https://www.instagram.com/tsanapi/).
