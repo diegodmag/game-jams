@@ -49,6 +49,8 @@ In a cyber-city, a robot went out of control, and now it must clean every corner
 
 En este proyecto yo fui responsable de - In this proyect, I was responsable for: 
 
+- 🧭 Integración general del proyecto en colaboración con [GGioRC](https://github.com/GGioRC) - General project integration in collaboration with [GGioRC](https://github.com/GGioRC).
+
 - 🧭 Diseño y programación de enemigos - Enemy IA programming.
 
 - Diseño de personajes en colaboración con [coppelia_artwork
