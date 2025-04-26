@@ -1,7 +1,7 @@
 # 🎮  Mis juegos de Jams - My Jams' Games 
 
 ---
-## 🤡 **I just wanted to make them laugh**
+## 🤡 **I just wanted to make them laugh (GlobalGameJam 2024)**
 
 🌐 [GlobalGameJam](https://globalgamejam.org/games/2024/i-just-wanted-make-them-laugh-6)
 
@@ -31,7 +31,7 @@ En este proyecto yo fui responsable de - In this proyect, I was responsable for:
   
 ![Enemy](https://github.com/user-attachments/assets/3858e781-84b4-4736-a6f3-f12fb896884e)
 
-## 🤖 **Bubbletron**
+## 🤖 **Bubbletron (GlobalGameJam 2025)**
 
 **Made in 48 hrs**
 
