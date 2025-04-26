@@ -1,4 +1,4 @@
-# 🎮  Mis juegos de Jams - My Jams's Games 
+# 🎮  Mis juegos de Jams - My Jams' Games 
 
 ---
 ## 🤡 **I just wanted to make them laugh**
