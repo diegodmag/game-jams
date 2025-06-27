@@ -36,6 +36,7 @@ En este proyecto yo fui responsable de - In this proyect, I was responsable for:
 **Made in 48 hrs**
 
 🌐 [GlobalGameJam](https://globalgamejam.org/games/2025/bubbletron-5)
+🌐[itch.io](https://diegoeloko.itch.io/bubbletron)
 
 En una ciber-ciudad un robot se salio de control, y ahora deberá limpiar cada rincón de la ciudad.
 
